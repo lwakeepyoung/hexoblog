@@ -70,3 +70,5 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:lwakeepyoung/lwakeepyoung.github.io.git
+# Duoshuo ShortName
+duoshuo_shortname: lwakeepyoung
